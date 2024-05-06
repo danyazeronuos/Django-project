@@ -13,6 +13,12 @@ h5 {
     font-size: 22px;
 }
 
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+}
+
 .menu {
     min-height: 50px;
     background: #000;
